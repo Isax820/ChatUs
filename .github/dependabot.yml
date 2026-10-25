@@ -1,3 +1,11 @@
-version: 2 updates:
-  package-ecosystem: "nuget" directory: "/" schedule: interval: "weekly" allow:
-    dependency-name: "Reactor"
+version: 2
+
+registries: nuget-bepinex: type: nuget-feed url: https://nuget.bepinex.dev/v3/index.json nuget-samboy: type: nuget-feed url: https://nuget.samboy.dev/v3/index.json
+
+updates:
+
+    package-ecosystem: "nuget" directories:
+        "/"
+        "/src" registries: "*" schedule: interval: "daily" allow:
+        dependency-name: "Reactor"
+    package-ecosystem: "github-actions" directory: "/" schedule: interval: "weekly" open-pull-requests-limit: 0
