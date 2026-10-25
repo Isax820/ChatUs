@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/Isax82/ChatUs/blob/main/.github/Images/Icon.png">
+  <img align="center" src="https://github.com/Isax820/ChatUs/blob/main/.github/Images/Icon.png">
   </a>
 </p>
 
@@ -41,6 +41,10 @@ ChatUs is compatible with desktop releases of Among Us. This includes Steam, Epi
 |                                       Among Us Version                                        | ChatUs Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
 |                                           `v19.0.0`                                           |   `v2026.10.25`   | [Download](https://github.com/Isax820/ChatUs/releases/tag/v2026.10.11) |
+
+# Dependencies
+
+ChatUS depends on the following mods and modding tools in order to function properly:
 
 | Mod                                                       | Version           |
 |-----------------------------------------------------------|-------------------|
