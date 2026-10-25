@@ -1,0 +1,10 @@
+/home/isaw/Documents/ChatUS/ChatUS/bin/Release/net6.0/ChatUs.deps.json
+/home/isaw/Documents/ChatUS/ChatUS/bin/Release/net6.0/ChatUs.dll
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ChatUs.csproj.AssemblyReference.cache
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ChatUs.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ChatUs.AssemblyInfoInputs.cache
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ChatUs.AssemblyInfo.cs
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ChatUs.csproj.CoreCompileInputs.cache
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ChatUs.dll
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/refint/ChatUs.dll
+/home/isaw/Documents/ChatUS/ChatUS/obj/Release/net6.0/ref/ChatUs.dll
