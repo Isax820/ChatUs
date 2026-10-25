@@ -44,7 +44,7 @@ ChatUs is compatible with desktop releases of Among Us. This includes Steam, Epi
 
 # Dependencies
 
-ChatUS depends on the following mods and modding tools in order to function properly:
+ChatUs depends on the following mods and modding tools in order to function properly:
 
 | Mod                                                       | Version           |
 |-----------------------------------------------------------|-------------------|
