@@ -16,7 +16,7 @@ updates:
   - package-ecosystem: "nuget"
     directories:
       - "/"
-      - "/src"
+      - "/ChatUs"
     registries: "*"
     schedule:
       interval: "daily"
