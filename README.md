@@ -13,7 +13,7 @@ A Among Us mod to unlock features in chat
 
 <hr />
 <p align="center">
-	<a href="https://github.com/ReSubmerged/ReSubmerged/releases">
+	<a href="https://github.com/Isax820/ChatUs/releases">
 		<img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Isax820/ChatUs/total?cacheSeconds=300">
 	</a>
 	<a href="https://github.com/Isax820/ChatUs/releases/latest">
