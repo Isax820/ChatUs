@@ -13,7 +13,7 @@ jobs:
         with:
           dotnet-version: 6.x
 
-      - run: dotnet build -c Release
+      - run: dotnet build ChatUs/ChatUs.csproj -c Release
 
       - name: Upload AUnlocker.dll artifact
         uses: actions/upload-artifact@v7
