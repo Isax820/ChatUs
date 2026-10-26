@@ -40,7 +40,7 @@ ChatUs is compatible with desktop releases of Among Us. This includes Steam, Epi
 
 |                                       Among Us Version                                        | ChatUs Version |                                        Links                                        |
 |:---------------------------------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------------------:|
-|                                           `v19.0.0`                                           |   `v2026.10.25`   | [Download](https://github.com/Isax820/ChatUs/releases/tag/v2026.10.11) |
+|                                           `v19.0.0`                                           |   `v2026.10.25`   | [Download](https://github.com/Isax820/ChatUs/releases/tag/v2026.10.25) |
 
 # Dependencies
 
