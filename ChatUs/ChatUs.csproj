@@ -23,7 +23,7 @@
     <ItemGroup>
         <PackageReference Include="AmongUs.GameLibs.Steam" Version="2026.9.29" />
         <PackageReference Include="Unity" Version="5.11.10" />
-        <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.791" />
+        <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.735" />
         <PackageReference Include="Reactor" Version="2.5.1-ci.400" />
 
         <PackageReference Include="BepInEx.AutoPlugin" Version="1.1.0" PrivateAssets="all" />
