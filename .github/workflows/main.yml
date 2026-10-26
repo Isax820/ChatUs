@@ -1,0 +1,22 @@
+name: CI
+
+on: [ "push", "pull_request", "workflow_dispatch" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: 6.x
+
+      - run: dotnet build -c Release
+
+      - name: Upload AUnlocker.dll artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: ChatUs.dll
+          path: ChatUs/bin/Release/net6.0/ChatUs.dll
