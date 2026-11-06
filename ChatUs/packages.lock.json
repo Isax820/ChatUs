@@ -22,12 +22,12 @@
       },
       "BepInEx.Unity.IL2CPP": {
         "type": "Direct",
-        "requested": "[6.0.0-be.791, )",
-        "resolved": "6.0.0-be.791",
-        "contentHash": "/pMi3n1vfB5ipcDs2zlCvMqrFuACS4irOQfAULS3jjIg3Rq5IlpMgLrmId0RnRyum2KVla1732JclBjjFF05Eg==",
+        "requested": "[6.0.0-be.793, )",
+        "resolved": "6.0.0-be.793",
+        "contentHash": "uApJQcQ7ffVYF5uHyZDn1bZ6nXqNkcPHEyJZlYP+tLQAwkAnIemYq1Dn/NCvQlDmhnqqtEKeVVJ4BqFWNuO/fA==",
         "dependencies": {
-          "BepInEx.Core": "6.0.0-be.791",
-          "BepInEx.Unity.Common": "6.0.0-be.791",
+          "BepInEx.Core": "6.0.0-be.793",
+          "BepInEx.Unity.Common": "6.0.0-be.793",
           "HarmonyX": "2.10.2",
           "Iced": "1.21.0",
           "Il2CppInterop.Generator": "1.5.3",
@@ -39,9 +39,9 @@
       },
       "JetBrains.Annotations": {
         "type": "Direct",
-        "requested": "[2026.2.0, )",
-        "resolved": "2026.2.0",
-        "contentHash": "drvAEaI7Xf4wU6dx4UTB9MoZWXZlraaQ0qoeThPQ411FxNhId7QdUTukIC9I8aUHP0ycAaGwZNKqSvfOZQvUlg=="
+        "requested": "[2025.2.2, )",
+        "resolved": "2025.2.2",
+        "contentHash": "0X56ZRizuHdrnPpgXjWV7f2tQO1FlQg5O1967OGKnI/4ZRNOK642J8L7brM1nYvrxTTU5TP1yRyXLRLaXLPQ8A=="
       },
       "Microsoft.Unity.Analyzers": {
         "type": "Direct",
@@ -116,8 +116,8 @@
       },
       "BepInEx.Core": {
         "type": "Transitive",
-        "resolved": "6.0.0-be.791",
-        "contentHash": "HIZr61YRdt4X6KITOQrDGWIcYNHdRWHf5kpcmtJ9d/dUGG+8lOdW5f4u+kbz0blwOSNBr8FjCTLuFe54u7O0TA==",
+        "resolved": "6.0.0-be.793",
+        "contentHash": "OY+trTgPGpdqbzvU90BC3DiqsXYb6ckUWgqUxzoO6npU5BXG2VwGbplx3g5R1JeFdvsrFbVBLjpC/L9omCANfw==",
         "dependencies": {
           "HarmonyX": "2.10.2",
           "MonoMod.Utils": "22.7.31.1",
@@ -126,8 +126,8 @@
       },
       "BepInEx.Unity.Common": {
         "type": "Transitive",
-        "resolved": "6.0.0-be.791",
-        "contentHash": "S3GBTGXtOomptrTKQbhCDP9jYyc8Hy2Z16VgRGkcsolA5smSypFqdmi88do7u48vXy6vkO1Hh8uXoCzHPmNcug==",
+        "resolved": "6.0.0-be.793",
+        "contentHash": "Kb1iFbUyyZJyifd+8PkSf+CHJ6eTJ+PDSEsMupD6SfqZWkVJE8DwovqzzHf0XjfRsMxyOj4An/Yp9IejHoEWKQ==",
         "dependencies": {
           "AssetRipper.Primitives": "3.2.0",
           "MonoMod.Utils": "22.7.31.1"
